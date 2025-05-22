@@ -26,8 +26,6 @@ Este é um projeto de teste para demonstrar habilidades em HTML5 e CSS3. O proje
 Zingen/
 ├── assets/           # Imagens e ícones
 ├── styles/           # Arquivos CSS
-│   ├── global.css   # Estilos globais
-│   └── footer.css   # Estilos específicos do footer
 └── index.html       # Página principal
 ```
 
