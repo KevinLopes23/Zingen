@@ -1,57 +1,46 @@
-# Zingen - Projeto de Teste HTML/CSS
+<div align="center">
 
-## 🎨 Sobre o Projeto
+# 🎤 Zingen
 
-Este é um projeto de teste para demonstrar habilidades em HTML5 e CSS3. O projeto simula uma página de landing page para um aplicativo de Karaokê, focando em um design moderno e responsivo.
+**Landing page responsiva de um app de karaokê**
 
-## 🛠️ Tecnologias Utilizadas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Ver online](https://img.shields.io/badge/Ver_online-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://kevinlopes23.github.io/Zingen/)
 
-- HTML5
-- CSS3
-- Flexbox e Grid Layout
-- CSS Custom Properties
-- Responsividade com media queries
+<br>
 
-## 🎨 Características do Design
+<img src="docs/preview.webp" alt="Tela do Zingen" width="74%">&nbsp;
+<img src="docs/preview-mobile.webp" alt="Tela do Zingen no celular" width="20%">
 
-- Layout responsivo que se adapta a diferentes tamanhos de tela
-- Sistema de grid flexível
-- Componentes reutilizáveis
-- Design moderno com cores e tipografia profissionais
-- Animações suaves e transições
+</div>
 
-## 📁 Estrutura do Projeto
+## 💡 Sobre
 
+Página de apresentação do Zingen, um app fictício de karaokê: "Quem canta seus males espanta". Projeto para praticar layout moderno com Flexbox, Grid e variáveis CSS.
+
+## ✨ Seções
+
+- Hero com chamadas para planos e download
+- Funcionalidades: biblioteca de músicas, experiência gamificada, gravações, comunidade e letras em tempo real
+- Planos Básico, Premium e Família
+- Chamada para baixar o app e rodapé com redes sociais
+
+## 🛠️ Tecnologias
+
+HTML5 · CSS3 (Flexbox, Grid, custom properties, media queries)
+
+## 🚀 Como rodar
+
+Projeto estático, sem build:
+
+```bash
+git clone https://github.com/KevinLopes23/Zingen.git
+cd Zingen
 ```
-Zingen/
-├── assets/           # Imagens e ícones
-├── styles/           # Arquivos CSS
-└── index.html       # Página principal
-```
 
-## 🎨 Componentes Principais
+Abra o `index.html` no navegador (ou use uma extensão como Live Server).
 
-- Header responsivo com navegação
-- Seção hero com design moderno
-- Cards de funcionalidades
-- Seção de planos e preços
-- Footer responsivo
+## 👤 Autor
 
-## 🎨 Padrões de Design
-
-- Uso de variáveis CSS para cores e espaçamentos
-- Sistema de grid flexível
-- Tipografia responsiva
-- Componentes reutilizáveis
-- Animações suaves
-
-## 📱 Responsividade
-
-O projeto é totalmente responsivo e se adapta a:
-- Desktop
-- Tablets
-- Mobile
-
-## 📝 Licença
-
-Este projeto é apenas para fins educacionais e não possui licença específica.
+Feito por [Kevin Lopes](https://github.com/KevinLopes23)
